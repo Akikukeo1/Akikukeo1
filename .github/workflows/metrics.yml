@@ -16,7 +16,7 @@ jobs:
       - name: Generate GitHub Metrics
         uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.GITHUB_TOKEN }}
           user: Akikukeo1
           template: classic
           base: header, activity, community, repositories, metadata
@@ -32,6 +32,8 @@ jobs:
           plugin_languages_colors: github
 
           plugin_lines: yes
+
+          plugin_calendar: yes
 
           plugin_achievements: yes
           plugin_achievements_display: detailed
