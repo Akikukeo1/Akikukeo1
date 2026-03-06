@@ -33,8 +33,6 @@ jobs:
 
           plugin_lines: yes
 
-          plugin_calendar: yes
-
           plugin_achievements: yes
           plugin_achievements_display: detailed
           plugin_achievements_threshold: C
