@@ -1,8 +1,8 @@
-# Akikukeo1
+<!-- # Akikukeo1 -->
 
 ![GitHub Metrics](./github-metrics.svg)
 
-メトリクス画像は `lowlighter/metrics@latest` により自動更新されます。
+<!-- メトリクス画像は `lowlighter/metrics@latest` により自動更新されます。
 
 ## このREADMEについて
 
@@ -14,4 +14,4 @@
 
 - トークンは `secrets.GITHUB_TOKEN` を使用し、ワークフロー権限は最小限に設定しています。
 - 機密情報をメトリクス設定値に直接書かないでください。
-- 公開プロフィールに表示される情報のみを対象に設定してください。
+- 公開プロフィールに表示される情報のみを対象に設定してください。 -->
