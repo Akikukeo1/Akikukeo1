@@ -7,13 +7,13 @@ agent: "agent"
 次の入力をもとに、`lowlighter/metrics@latest` を利用した GitHub プロフィール構成を日本語で作成してください。
 
 入力:
-- GitHubユーザー名: {{ユーザー名}}
+- GitHubユーザー名: {{Akikukeo1}}
 - 表示したい内容: {{表示内容}}
 - デザイン方針: {{デザイン方針}}
 - 除外したい内容: {{除外内容}}
 
 要件:
-- 対象は `{{ユーザー名}}/{{ユーザー名}}` リポジトリのプロフィール README。
+- 対象は `{{Akikukeo1}}/{{Akikukeo1}}` リポジトリのプロフィール README。
 - GitHub Actions で `lowlighter/metrics@latest` を定期実行する構成を提案する。
 - `GITHUB_TOKEN` など必要な Secrets/Permissions を明記する。
 - 初心者でも迷わないよう、セットアップ手順を順序立てて説明する。
