@@ -33,7 +33,7 @@ jobs:
 
           plugin_lines: yes
 
-          plugin_calendar: yes
+          plugin_isocalendar: yes
 
           plugin_achievements: yes
           plugin_achievements_display: detailed
