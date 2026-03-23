@@ -2,7 +2,7 @@ name: Metrics
 
 on:
   schedule:
-    - cron: "0 8 * * *"
+    - cron: "0 */2 * * *"
   workflow_dispatch:
   push:
 
@@ -19,7 +19,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           user: Akikukeo1
           template: classic
-          base: header, activity, community, repositories, metadata
+          base: header, activity, repositories, metadata
           config_timezone: Asia/Tokyo
 
           # plugin_languages: yes
@@ -31,7 +31,7 @@ jobs:
           # plugin_languages_categories: programming
           # plugin_languages_colors: github
 
-          plugin_lines: yes
+          plugin_lines: no
 
           plugin_calendar: yes
 
