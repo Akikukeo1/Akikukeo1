@@ -2,6 +2,8 @@
 
 Contact: keisuke.ishii.01+github@gmail.com
 
+If I miss your email, please feel free to resend it after a week.
+
 ![GitHub Metrics](./github-metrics.svg)
 
 <!-- メトリクス画像は `lowlighter/metrics@latest` により自動更新されます。
