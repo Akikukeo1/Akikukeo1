@@ -1,5 +1,7 @@
 <!-- # Akikukeo1 -->
 
+Contact: keisuke.ishii.01+github@gmail.com
+
 ![GitHub Metrics](./github-metrics.svg)
 
 <!-- メトリクス画像は `lowlighter/metrics@latest` により自動更新されます。
