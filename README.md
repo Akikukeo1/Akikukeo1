@@ -1,6 +1,6 @@
 <!-- # Akikukeo1 -->
 
-Contact: keisuke.ishii.01+github@gmail.com
+Contact: keisuke.ishii.01+gb@gmail.com
 
 If I miss your email, please feel free to resend it after a week.
 
