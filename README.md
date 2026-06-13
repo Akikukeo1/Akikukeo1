@@ -6,6 +6,10 @@ If I miss your email, please feel free to resend it after a week.
 
 ![GitHub Metrics](./github-metrics.svg)
 
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Akikukeo1&theme=github-compact" />
+</p>
+
 <!-- メトリクス画像は `lowlighter/metrics@latest` により自動更新されます。
 
 ## このREADMEについて
