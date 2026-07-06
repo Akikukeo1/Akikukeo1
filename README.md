@@ -1,7 +1,7 @@
 <!-- # Akikukeo1 -->
 [Portfolio](https://Akikukeo1.github.io)
 
-Contact: keisuke.ishii.01+gh@gmail.com
+Contact: keisuke.ishii.01+gh@gmail.com or X dm
 
 If I miss your email, please feel free to resend it after a week.
 
